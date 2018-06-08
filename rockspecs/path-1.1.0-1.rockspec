@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "path"
-version = "1.0.5-1"
--- LuaDist source
+version = "1.1.0-1"
 source = {
-  tag = "1.0.5-1",
-  url = "git://github.com/LuaDist-testing/path.git"
+    url = "git://github.com/mah0x211/lua-path.git",
+    tag = "v1.1.0"
 }
--- Original source
--- source = {
---     url = "git://github.com/mah0x211/lua-path.git",
---     tag = "v1.0.5"
--- }
 description = {
     summary = "path string manipulation",
     homepage = "https://github.com/mah0x211/lua-path",
